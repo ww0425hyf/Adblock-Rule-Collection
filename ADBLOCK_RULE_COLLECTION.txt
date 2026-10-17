@@ -4,8 +4,8 @@
 !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 !LICENSE1：https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL3.0
 !LICENSE2：https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC%20BY-NC-SA%204.0
-!生成时间: 2026-10-18 05:31:35 UTC+08:00
-!有效规则数目: 2091016
+!生成时间: 2026-10-18 07:25:14 UTC+08:00
+!有效规则数目: 2091039
 
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
@@ -682328,6 +682328,7 @@ zzzyk.com###Tinfo
 ||airshedmammets.qpon^
 ||airship-shuttle-company.com^
 ||airshowreport.com^
+||airsick32.com^
 ||airsignswind.com^
 ||airsilicon.com^
 ||airsnowking.live^
@@ -816796,6 +816797,7 @@ zzzyk.com###Tinfo
 ||burberryoutlet.at^
 ||burberryoutlet2012.com^
 ||burberryscarf.biz^
+||burbledprilledmakua.qpon^
 ||burbleme.com^
 ||burblerniffer.shop^
 ||burblerpigly.help^
@@ -1085944,6 +1085946,7 @@ zzzyk.com###Tinfo
 ||fnqcbxqvodj.com^
 ||fnqhhshfbpkwp.site^
 ||fnqrrpcctwbjz.site^
+||fnqxpmhcfdsfc.website^
 ||fnqykpnonwjc.com^
 ||fnr-social.org^
 ||fnr.prommosite.xyz^
@@ -1092170,6 +1092173,7 @@ zzzyk.com###Tinfo
 ||fqhzca.outdooractive.com^
 ||fqiaizkfzuqgs.online^
 ||fqicudrbaf.execute-api.us-east-1.amazonaws.com^
+||fqigelecyvfdx.online^
 ||fqirjff.com^
 ||fqiuqhye.firebaseapp.com^
 ||fqiuqhye.firebaseapp.com^$all
@@ -1179657,6 +1179661,7 @@ zzzyk.com###Tinfo
 ||hccms.com.cn^
 ||hccoeutg.com^
 ||hccoil.com^
+||hcctlaikbgfvr.website^
 ||hcctraining.ac.uk^
 ||hccwwz.cn^
 ||hccxwfunnpxngz.com^
@@ -1191463,6 +1191468,7 @@ zzzyk.com###Tinfo
 ||hlbkj.com^
 ||hlbmaat.com^
 ||hlbmc.demdex.net^
+||hlbmyjktquias.space^
 ||hlbotsale.store^
 ||hlbtv.cbdistillery.co^
 ||hlbvlf5no9lz8rzvy.cfd^
@@ -1262990,6 +1262996,7 @@ zzzyk.com###Tinfo
 ||jmvowcvdshft.com^
 ||jmvqs.aosom.ca^
 ||jmvscgd.com^
+||jmvstmaabdztk.website^
 ||jmvvpb.xyz^
 ||jmw.com.cn/m_v2/js/active.js
 ||jmw.mindtake.com^
@@ -1283696,6 +1283703,7 @@ zzzyk.com###Tinfo
 ||khpl12invest.web.app^
 ||khpo.com^
 ||khprspkouotscd.com^
+||khpsfhwwdzly.com^
 ||khpt69496-h25.vercel.app^
 ||khq.jpg.fr^
 ||khqonyigsdf.com^
@@ -1292442,6 +1292450,7 @@ zzzyk.com###Tinfo
 ||kpechios.gr^
 ||kpedfucu.mellowfellow.fun^
 ||kpehltcnwo.com^
+||kpeirpqmdtumy.site^
 ||kpemv.lemonadedolls.com^
 ||kpent.com^
 ||kpeoqklzeahc.com^
@@ -1476275,6 +1476284,7 @@ zzzyk.com###Tinfo
 ||okfiles.net^
 ||okfinancially.com^
 ||okfinancially.com^$all
+||okflsgmvtpmmy.website^
 ||okfnce.satscompanion.com^
 ||okforwardt.fun^
 ||okfrj.com^
@@ -1495306,6 +1495316,7 @@ zzzyk.com###Tinfo
 ||outdatedbrowser.com^
 ||outdeo.shop^
 ||outdilateinterrupt.com^
+||outdoertercels.cyou^
 ||outdoeslegacy.uno^
 ||outdoeslegacy.uno^$popup
 ||outdoesvimen.uno^
@@ -1518846,6 +1518857,7 @@ zzzyk.com###Tinfo
 ||perhapsstraight.net^
 ||perheat.com^
 ||perhiptid.com^
+||perhsentinepukeka.qpon^
 ||perhui.com^
 ||perichrist.org^
 ||pericosonline.com^
@@ -1529640,6 +1529652,7 @@ zzzyk.com###Tinfo
 ||piyaratmotors.com^
 ||piybineqejjswp.com^
 ||piyeaztpdsmaj.space^
+||piyjmdcabrxpo.online^
 ||piypjmdsqpznhn.com^
 ||piyushbendale.com^
 ||piyzmkcxa.bid^
@@ -1577243,6 +1577256,7 @@ zzzyk.com###Tinfo
 ||qblcyqgn.com^
 ||qbldzsktv.com^
 ||qblfoindoxcga.space^
+||qblgavrzpsuvu.website^
 ||qblkeu.vamvelosiped.ru^
 ||qblllqzkaqewv.top^
 ||qblllqzqezvkz.top^
@@ -1748807,6 +1748821,7 @@ zzzyk.com###Tinfo
 ||slahpxqb6wto.com^
 ||slai01.clicktale.net^
 ||slaitottawa.com^
+||slajoioyhw.com^
 ||slak.wpengine.com^
 ||slakeonlythigh.com^
 ||slakeonlythigh.com^$script,domain=pcgamer.com
@@ -1847561,6 +1847576,7 @@ zzzyk.com###Tinfo
 ||tesseradigital.com^
 ||tesserae.mozaico.com^
 ||tesserae.net.nz^
+||tesseraunpiece.com^
 ||tessiespandemic.com^
 ||tessila.net^
 ||tesskashift.site^
@@ -1850208,6 +1850224,7 @@ zzzyk.com###Tinfo
 ||tft-test.ru^
 ||tft.sitescoutadserver.com^
 ||tftfbezn.com^
+||tftgkxgwoiyib.space^
 ||tftjgl.brice.fr^
 ||tftkzr.happy-size.at^
 ||tftnbbok.xyz^
@@ -1905437,6 +1905454,7 @@ zzzyk.com###Tinfo
 ||ucnews.ucweb.com^
 ||ucnews.xenderbox.com^
 ||ucnjt.guessfactory.com^
+||ucnovextjoeym.site^
 ||ucnwhhtaadaqp.site^
 ||ucnzz.lyfd2xzauti9d8p.bapb.gdn^
 ||uco.co1.qualtrics.com^
@@ -1929751,6 +1929769,7 @@ zzzyk.com###Tinfo
 ||uzsrh.cn^
 ||uzsywcdthqplzv.bid^
 ||uzt7ud70j1.com^
+||uztdgsptmbdjf.website^
 ||uztps.com^
 ||uztyvfk.cn^$third-party,image
 ||uzuarlv.cn^
@@ -1962970,6 +1962989,7 @@ zzzyk.com###Tinfo
 ||vylejey.com^
 ||vylfjneyvmq.xyz^
 ||vylog.hiido.com^
+||vylrhxnitzghi.website^
 ||vylspa.com^
 ||vyltrix.online^
 ||vymaro.shop^
@@ -1987050,6 +1987070,7 @@ zzzyk.com###Tinfo
 ||wjljwqbzjlezw.top^
 ||wjlzs.cn^
 ||wjmckfsdcxpj.com^
+||wjmdodvtxqyvh.website^
 ||wjmepiytpjiki.website^
 ||wjmghujaluysu.online^
 ||wjmiremymfgcq.website^
@@ -2059761,6 +2059782,7 @@ zzzyk.com###Tinfo
 ||xrri2wvr3c8cakmt.000webhostapp.com^
 ||xrrvcvslcnx.top^
 ||xrrwwxfj.bid^
+||xrrxnarflsuja.website^
 ||xrrxodz.xyz^
 ||xrs.chenebystie.com^
 ||xrs56.com^
@@ -2068733,6 +2068755,7 @@ zzzyk.com###Tinfo
 ||ymauoo.xyz^
 ||ymazkrkieaujq.online^
 ||ymbpndswe.com^
+||ymbrbjxzfdljd.online^
 ||ymbtsoj7.micpn.com^
 ||ymca-cw.org.uk^
 ||ymcala.rpxnow.com^
