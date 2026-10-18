@@ -4,8 +4,8 @@
 !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 !LICENSE1：https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL3.0
 !LICENSE2：https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC%20BY-NC-SA%204.0
-!生成时间: 2026-10-19 02:33:18 UTC+08:00
-!有效规则数目: 2085705
+!生成时间: 2026-10-19 05:02:03 UTC+08:00
+!有效规则数目: 2085732
 
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
@@ -4538,8 +4538,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{3,6}(?:[&?][0-9_a-z]=[0-9A-Za-z-]+)*$/$popup,third-party,match-case
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,}\.[a-z]{3,7}\/[a-z](?:[a-z]{2,}[0-9A-Z]|[a-z][0-9A-Z][0-9a-zA-Z]|[0-9A-Z][0-9a-zA-Z]{2})[0-9a-zA-Z]*\/\d{3,6}(?:\?[_a-z]=[-0-9a-z]+)?$/$script,third-party,match-case
 /^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,}\.[a-z]{3,7}\/[a-z](?:[a-z]{2,}[0-9A-Z]|[a-z][0-9A-Z][0-9a-zA-Z]|[0-9A-Z][0-9a-zA-Z]{2})[0-9a-zA-Z]*\/\d{4,6}(?:\?[_a-z]=[0-9a-z-]+)?$/$subdocument,script,xmlhttprequest,third-party,match-case
+/^https?:\/\/(?:[a-z]{2}|[a-z]{5,7})?\.?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{3,6}(?:[&?][0-9_a-z]+=[0-9A-Za-z-]+)*$/$subdocument,script,xhr,3p,match-case
 /^https?:\/\/(?:[a-z]{2}|[a-z]{5,7})?\.?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{3,6}(?:[&?][0-9_a-z]+=[0-9A-Za-z-]+)*$/$subdocument,script,xmlhttprequest,third-party,match-case
-/^https?:\/\/(?:[a-z]{2}|[a-z]{6,7})?\.?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{3,6}(?:[&?][0-9_a-z]+=[0-9A-Za-z-]+)*$/$subdocument,script,xhr,3p,match-case
 /^https?:\/\/(?:[a-z]{2}|[a-z]{6,7})?\.?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{3,6}(?:[&?][0-9_a-z]+=[0-9A-Za-z-]+)*$/$subdocument,script,xmlhttprequest,third-party,match-case
 /^https?:\/\/(?:www\.)?swan[0-9]\.[ctv][cio]p?\//$doc,to=cc|top|vip
 /^https?:\/\/(?:www\.anrdoezrs\.net|cj\.dotomi\.com)\/links(?:-t)?\/\d+\/sid\/[^\/]+\/http/$doc,to=cj.dotomi.com|www.anrdoezrs.net,urlskip=/\/sid\/[^\/]+\/(http[^?]+)/
@@ -846036,6 +846036,7 @@ zzzyk.com###Tinfo
 ||chasesecure.live^
 ||chasesecure1.app.link^
 ||chasesomedayexclusively.com^
+||chasesseqqreburn.qpon^
 ||chasesupport.serveirc.com^
 ||chasesusccses.site^
 ||chasethetrend-com-edge.ntv.io^
@@ -895837,6 +895838,7 @@ zzzyk.com###Tinfo
 ||cqdtpdyjrbjwj.com^
 ||cqemus.gartenhaus-gmbh.de^
 ||cqeomumqwx.com^
+||cqeoqlmikgrwd.online^
 ||cqeorasldxsbw.store^
 ||cqevi.net^
 ||cqf.ftrqzvz16iyr23ur7jt5kbc.cyou^
@@ -942865,6 +942867,7 @@ zzzyk.com###Tinfo
 ||dfkaya.com^
 ||dfkcnyhd.nl^
 ||dfkd.xyz^
+||dfkistiraxclf.site^
 ||dfkjdlkgjdg.no-ip.org^
 ||dfkkffjulbnec.space^
 ||dfkkfos.net^
@@ -947537,6 +947540,7 @@ zzzyk.com###Tinfo
 ||dik.si^$all
 ||dikahandel.de^
 ||dikastro.gr^
+||dikastruthful.cfd^
 ||dikcomputadores.com.br^
 ||dike.duckdns.org^
 ||dikeaxillas.com^
@@ -986974,6 +986978,7 @@ zzzyk.com###Tinfo
 ||ecdfvv.s3.us-east-005.backblazeb2.com^
 ||ecdghx.s3.us-east-005.backblazeb2.com^
 ||ecdglplsmzxcergaqx.com^
+||ecdhfydktzlvg.com^
 ||ecdi14.eu^
 ||ecdi15.eu^
 ||ecdi19.eu^
@@ -991093,6 +991098,7 @@ zzzyk.com###Tinfo
 ||efcbk.tech^
 ||efcckcc.org^
 ||efcdxz.s3.us-east-005.backblazeb2.com^
+||efclqcsealqvh.online^
 ||efcmdpfbepeba.site^
 ||efcnevmojvfs.com^
 ||efd-bk.com^
@@ -992605,6 +992611,7 @@ zzzyk.com###Tinfo
 ||ehrxthskewjm.com^
 ||ehrydnmdoe.com^
 ||ehrymwoiidbyr.space^
+||ehrzuogdhrida.website^
 ||ehs-pellets.de^
 ||ehs.familydoctor.org^
 ||ehs.sound.ag^
@@ -1100725,6 +1100732,7 @@ zzzyk.com###Tinfo
 ||g71c7g3-ou9wh835ca-1.s3.ap-southeast-2.amazonaws.com^
 ||g71c7g3-ou9wh835ca-1.s3.ap-southeast-2.amazonaws.com^$all
 ||g726n8cy.com^
+||g73r74ryx16lf43fou14bttnqlv7e7g2.rest^
 ||g755.kouvolansanomat.fi^
 ||g75731v6.goasrv.com^
 ||g77776666.com^
@@ -1106745,6 +1106753,7 @@ zzzyk.com###Tinfo
 ||gceat.theproteinworks.com^
 ||gceatkijv5bjxr8r.azure.net.daraz.com^
 ||gcedd.biz^
+||gcedzxjqncgacv.com^
 ||gcejdac.cn^
 ||gcelb.lytics.io^
 ||gceleritasads.com^
@@ -1114264,6 +1114273,7 @@ zzzyk.com###Tinfo
 ||ggifvakvysycu.site^
 ||ggijrjktcld.com^
 ||ggimg.tapas.net^
+||ggiscozcogsga.online^
 ||ggishipping.com^
 ||ggiypn.sneltoner.nl^
 ||ggjcswb4rln4.com^
@@ -1150490,6 +1150500,7 @@ zzzyk.com###Tinfo
 ||gqekfxgdaxoau.com^
 ||gqepepsdn.com^
 ||gqer.ru^
+||gqfck5gnwf88zjqq6pepmwvfg48.cfd^
 ||gqfga.senreve.com^
 ||gqfoi.roewellness.com^
 ||gqfuf.com^
@@ -1171500,6 +1171511,7 @@ zzzyk.com###Tinfo
 ||hanoihomes.net^
 ||hanoioldquarter.com^
 ||hanoirenting.com^
+||hanojdofxaw.in^
 ||hanoluexjqcf.us^
 ||hanoona.com^
 ||hanopatch4u.com/wp-content/uploads/aebdbf/ceedad.js
@@ -1198144,6 +1198156,7 @@ zzzyk.com###Tinfo
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||hsyjdpgetl.bid^
 ||hsylieu.top^
+||hsymkfqfhqgfb.online^
 ||hsynxmsytsxil.site^
 ||hsypwju.cn^
 ||hsyseo.com^
@@ -1212969,6 +1212982,7 @@ zzzyk.com###Tinfo
 ||ilbyxxe.in^
 ||ilc8af6to2ztiu9s.partner.net.daraz.com^
 ||ilcb.edu.pe^
+||ilcclytcxxuws.online^
 ||ilcd.tt.omtrdc.net^
 ||ilcdamnqtpem.com^
 ||ilcdn.fi^*/Bootstrap.js
@@ -1281256,6 +1281270,7 @@ zzzyk.com###Tinfo
 ||kirkoffice.ky^
 ||kirkpatricklandscaping.com^
 ||kirksolaris.net^
+||kirktonreflate.qpon^
 ||kirkuc.com^
 ||kirkukboy.no-ip.biz^
 ||kirkwoodie.qualtrics.com^
@@ -1380676,6 +1380691,7 @@ zzzyk.com###Tinfo
 ||megpxs.com^
 ||megpxs.com^$third-party
 ||megrezvans.guru^
+||megrimsinswing.cyou^
 ||megroarsoy.net^
 ||megroup.aweber.com^
 ||megsthings.com^
@@ -1420008,6 +1420024,7 @@ zzzyk.com###Tinfo
 ||mwu.com.mx^
 ||mwuiykzqwaic.com^
 ||mwumbd.com^
+||mwumgrgiryetz.website^
 ||mwurserx.top^
 ||mwv2.adj.st^
 ||mwvhjhkx.org^
@@ -1448539,6 +1448556,7 @@ zzzyk.com###Tinfo
 ||nlflb.com^
 ||nlfqbfwbfovt.com^
 ||nlfqqjvyfr.com^
+||nlfthbrebiuoy.online^
 ||nlg.co.uk^
 ||nlg.kuspas.com^
 ||nlgid.com^
@@ -1516888,6 +1516906,7 @@ zzzyk.com###Tinfo
 ||pgyoihqqfjafy.space^
 ||pgz999-online.com^
 ||pgzjhqnndpyyt.site^
+||pgzmbkdavgilh.online^
 ||pgznc.canadaswonderland.com^
 ||pgzs.com^
 ||ph-126.net^
@@ -1573635,6 +1573654,7 @@ zzzyk.com###Tinfo
 ||qfwjclpckrdehi.com^
 ||qfwjgivatds.com^
 ||qfxheyyfxnply.site^
+||qfxqmbwvrywfu.website^
 ||qfxwqa.lens-smile.com^
 ||qfy.innotechx.com^
 ||qfyavpwmraqibv.com^
@@ -1696574,6 +1696594,7 @@ zzzyk.com###Tinfo
 ||sdjiy.shop^
 ||sdjkbcjksbdsvv.com^
 ||sdjlbg.xyz^
+||sdjmtziuarexc.online^
 ||sdjof.nadinemerabi.com^
 ||sdjqhxmg.com^
 ||sdjskt.com^
@@ -1736655,6 +1736676,7 @@ zzzyk.com###Tinfo
 ||sindirect.adsrvr.org^
 ||sindmagneto.cyou^
 ||sindo.me^
+||sindocunfancy.com^
 ||sindoproperty.org^
 ||sindr-yet.com^
 ||sindsul.com^
@@ -1836290,6 +1836312,7 @@ zzzyk.com###Tinfo
 ||tectok.net^
 ||tectona-wood.com^
 ||tectonic.hk^
+||tectrixsnavvle.com^
 ||tectronica.com^
 ||tectronoutlet.com^
 ||tectropix.de^
@@ -1900460,6 +1900483,7 @@ zzzyk.com###Tinfo
 ||udcm.yahoo.com^
 ||udcthrbuypzbe.site^
 ||udcufwvt.com^
+||udcuyvlyoqykt.site^
 ||udcz.xyz^
 ||udd1i5.zhihu.com^
 ||udda1f.close.futureisready.com^
@@ -1906479,6 +1906503,7 @@ zzzyk.com###Tinfo
 ||unhappytone.pro^
 ||unhappyweakness.com^
 ||unhardward.com^
+||unhaspquartin.com^
 ||unhastyshote.shop^
 ||unhatedprotei.com^
 ||unhau.com^
@@ -1945218,6 +1945243,7 @@ zzzyk.com###Tinfo
 ||violon.no-ip.org^
 ||violoncello21.top^
 ||violondeaf.guru^
+||violtantlevroom.cfd^
 ||violtebotnet.cc^
 ||viomars.com^
 ||vionaluxury.com^
@@ -2060135,6 +2060161,7 @@ zzzyk.com###Tinfo
 ||ycstajztzoyiu.online^
 ||ycszgt.cn^
 ||ycszpx.com^
+||yctafienhfpgz.online^
 ||yctcchem.com^
 ||yctdtntrybmtw.site^
 ||yctjw54slxrwwlh.trybawaryjny.pl^
