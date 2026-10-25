@@ -4,8 +4,8 @@
 !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 !LICENSE1：https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL3.0
 !LICENSE2：https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC%20BY-NC-SA%204.0
-!生成时间: 2026-10-25 06:23:20 UTC+08:00
-!有效规则数目: 2150256
+!生成时间: 2026-10-25 08:30:58 UTC+08:00
+!有效规则数目: 2150288
 
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
@@ -604969,6 +604969,7 @@ zzzyk.com###Tinfo
 ||6f50-aafd-15ab-d93d.reporo.net^
 ||6f54654j654654hh.cloud^
 ||6f5yr4y8mp.f2rt41bh4gnxtiqeytygt.cyou^
+||6f64db8b50.com^
 ||6f752f73ce.com^
 ||6f7ad7ae07.142f8fb46a.com^
 ||6f80-9f9d-e2a7-67cb.reporo.net^
@@ -605644,6 +605645,7 @@ zzzyk.com###Tinfo
 ||6zvmvn.close.futureisready.com^
 ||6zw2rcfd.com^
 ||6zy9yqe1ew.com^
+||6zyw1j61pf5tlb1c.cfd^
 ||7-10--app.agent.datadoghq.com^
 ||7-10-0-app.agent.datadoghq.com^
 ||7-10-2-app.agent.datadoghq.com^
@@ -699294,6 +699296,7 @@ zzzyk.com###Tinfo
 ||aeht9.voluumtrk.com^
 ||aehudh.rakumachi.jp^
 ||aehvf.tentree.com^
+||aehxuhvjdbtjw.space^
 ||aei.com.pe^
 ||aeibnv.golfino.com^
 ||aeicjslvodjfklllf.top^
@@ -704468,6 +704471,7 @@ zzzyk.com###Tinfo
 ||agpgtunukfis.com^
 ||agpix02.touchcommerce.com^
 ||agpkpuobjq.com^
+||agpmmehwurc.in^
 ||agpower.tupimob.com^
 ||agps.location.live.net^
 ||agpupgrade072e99d5176319a2devaossoap.hb-fa-dev.tt.omtrdc.net^
@@ -824241,6 +824245,7 @@ zzzyk.com###Tinfo
 ||bnxnmcxkjdoidkl.weebly.com^
 ||bnxnmcxkjdoidkl.weebly.com^$all
 ||bnxqda.duckdns.org^
+||bnxuskszzoijr.site^
 ||bnxydwdgr.com^
 ||bny-whatsapp.com^
 ||bny-whatsapp.com^$doc
@@ -842938,6 +842943,7 @@ zzzyk.com###Tinfo
 ||bush.co1.qualtrics.com^
 ||bush.huborform.com.pl^
 ||bush2015.net^
+||bushangolanmamaloi.qpon^
 ||bushbrothers.sc.omtrdc.net^
 ||bushcamping.com.au^
 ||bushchicken.com^
@@ -845694,6 +845700,7 @@ zzzyk.com###Tinfo
 ||bxvgdyxf.info^
 ||bxvirhgaq.com^
 ||bxvlyrw.com^
+||bxvndbwtjtrgp.space^
 ||bxvuyljdhjtim.site^
 ||bxvvzylxihzoh.space^
 ||bxvxfsdvgstu.com^
@@ -871549,6 +871556,7 @@ zzzyk.com###Tinfo
 ||centos10.com^
 ||centotag.io/edge.js$all
 ||centotag.io^
+||centoz.xyz^
 ||centr-diplom.ru^
 ||centr-security.com^
 ||centr-zko.legostore.kz^
@@ -874189,6 +874197,7 @@ zzzyk.com###Tinfo
 ||ch2.eu^
 ||ch2.go.pl^
 ||ch21175.tw1.ru^
+||ch2287x1qxc5uypbwmk3v677gzb258olm.rest^
 ||ch265293.firebaseapp.com^
 ||ch265293.firebaseapp.com^$all
 ||ch265293.web.app^
@@ -1007416,6 +1007425,7 @@ zzzyk.com###Tinfo
 ||dv31n6ldvpt35tt6.sjc12enticate.net.daraz.com^
 ||dv36o6ux8o.s.ad6media.fr^
 ||dv4ku.icu^
+||dv4o54c8p.com^
 ||dv4uxy777adjt.cloudfront.net^
 ||dv521.com^
 ||dv59b.montecarlomeeting.com^
@@ -1098212,6 +1098222,7 @@ zzzyk.com###Tinfo
 ||ffsi.info^
 ||ffskgnxhhnqaf.website^
 ||ffskhqycasekb.website^
+||ffsnkkngsutg.com^
 ||ffspinsveq.terbaru-2023.com^
 ||ffspinsxle.terbaru-2023.com^
 ||ffspinsxle.terbaru-2023.com^$all
@@ -1129200,6 +1129211,7 @@ zzzyk.com###Tinfo
 ||fzaybjewoyyrz.store^
 ||fzb01.qiushibaike.com^
 ||fzb5.laboratoire-giphar.fr^
+||fzbaqs9f1.com^
 ||fzbfxiuyev.com^
 ||fzbjzlwcnd.com^
 ||fzbkgni.cn^
@@ -1230770,6 +1230782,7 @@ zzzyk.com###Tinfo
 ||homvica.shop^
 ||homviva.shop^
 ||homvora.de^
+||homyacetize.com^
 ||homyanus.com^
 ||homyme.hopto.org^
 ||homypikeman.cyou^
@@ -1242437,6 +1242450,7 @@ zzzyk.com###Tinfo
 ||hxsxw.net^
 ||hxt.50webs.com^
 ||hxtdv.com^
+||hxtgnyqwykqrn.online^
 ||hxtiojs.cn^
 ||hxto29cq-android.mobile-sdk-api.intercom.io^
 ||hxtrack.com^
@@ -1252100,6 +1252114,7 @@ zzzyk.com###Tinfo
 ||iihakhn.com^
 ||iihaventure.com^
 ||iihcjcil.com^
+||iihhfyukxcyrp.site^
 ||iihmb.trtltravel.com^
 ||iihotel.com^
 ||iihpwzo.cn^
@@ -1288248,6 +1288263,7 @@ zzzyk.com###Tinfo
 ||iwtivbukvlvdk.site^
 ||iwtserve.com^
 ||iwudaolmmaejh.online^
+||iwugeoaxjcvuv.online^
 ||iwuh.org^
 ||iwunljidrmhdh.online^
 ||iwunlnagnsqxys.bid^
@@ -1296350,6 +1296366,7 @@ zzzyk.com###Tinfo
 ||jieshengit.com/1*.js
 ||jieshengit.com/js/*_
 ||jieshengit.com/js/jhhe.
+||jieshengsz.com^
 ||jieshiekia.com^
 ||jieshimaya.xyz^
 ||jiesnybbvihbm.space^
@@ -1306391,6 +1306408,7 @@ zzzyk.com###Tinfo
 ||juhuisuan.com^$third-party
 ||juhwscwhvxmhs.site^
 ||juhxkygan.com^
+||juibjoxkjlawy.online^
 ||juic.jainuniversity.ac.in^
 ||juice-syrup.ml^
 ||juice.losmibracala.org^
@@ -1309452,6 +1309470,7 @@ zzzyk.com###Tinfo
 ||jzurzhjqrp.com^
 ||jzuybtybvjcgm.website^
 ||jzuzz.ymaqdv.bapb.gdn^
+||jzvchdrihqrrfy.com^
 ||jzvhzmu.duckdns.org^
 ||jzvln.famousfootwear.com^
 ||jzvsc.thermoworks.com^
@@ -1318319,6 +1318338,7 @@ zzzyk.com###Tinfo
 ||keysermedia.clickfunnels.com^
 ||keyservice.liveperson.net^
 ||keysetcrack.fr^
+||keysetjamesshrugs.cyou^
 ||keysetsunquiet.cfd^
 ||keysfishingdirectory.com^
 ||keysforgamers.com^
@@ -1497908,6 +1497928,7 @@ zzzyk.com###Tinfo
 ||nqwiee2covdmgv.ru^
 ||nqwjmb.biz^
 ||nqwkzvqwa.com^
+||nqwmppsbexkjv.space^
 ||nqwoxo.close.futureisready.com^
 ||nqwpgxf.net^
 ||nqx.kitchen4all.nl^
@@ -1626181,6 +1626202,7 @@ zzzyk.com###Tinfo
 ||quericeriant20.top^
 ||querie.me^$removeparam=timestamp
 ||querlfurcal.com^
+||querngipsy.com^
 ||quernstomped.top^
 ||quero-cancelar.site^
 ||queroinvestiragora.leadpages.co^
@@ -1735044,6 +1735066,7 @@ zzzyk.com###Tinfo
 ||rras.playpopgames.com^
 ||rrasianp.com^
 ||rrave.com^
+||rraxbbatzvkoh.website^
 ||rraxqdtwjfaun.com^
 ||rrbaib.tsutsumishop.jp^
 ||rrbconventschool.com^
@@ -1741593,6 +1741616,7 @@ zzzyk.com###Tinfo
 ||rxoeeqledxuzzb1rz16m.maherstcottage.com.au^
 ||rxoi.cn^
 ||rxojynr.icu^
+||rxoykprwtfeph.online^
 ||rxpbbsnm.shop^
 ||rxpharmacysfbi.com^
 ||rxpharmacyteam.com^
@@ -1917614,6 +1917638,7 @@ zzzyk.com###Tinfo
 ||thyvq.blogspot.tw^
 ||thyvurika.pro^
 ||thzaiqqwsbpps.com^
+||thzdttylfphpn.site^
 ||thzing.site^
 ||thzinhacker.ddns.net^
 ||thzlike.com^
@@ -1947667,6 +1947692,7 @@ zzzyk.com###Tinfo
 ||trccmpnlnk.com^
 ||trccmpnsl.com^
 ||trccvt.dhc.co.jp^
+||trchyqyrhlprc.website^
 ||trcinsaat.com^
 ||trck-a8.j-depo.com^
 ||trck-beta.basicnerf.com^
@@ -1994466,6 +1994492,7 @@ zzzyk.com###Tinfo
 ||vbvl.com^
 ||vbvng.pancheros.com^
 ||vbvpkdwucilopuw.xyz^
+||vbvpwwkfvzrbl.space^
 ||vbvqbnwyurqem.com^
 ||vbvrlyntrmwwh.online^
 ||vbvserviios.com^
@@ -1994706,6 +1994733,7 @@ zzzyk.com###Tinfo
 ||vcmfg.thelifestyledco.com^
 ||vcmkpl.duckdns.org^
 ||vcmosyicygejth.com^
+||vcmpilifksvdz.online^
 ||vcmqpllyjfzl.com^
 ||vcn-hiyetuafjmjseulvedcaulqe.weebly.com^
 ||vcn-hiyetuafjmjseulvedcaulqe.weebly.com^$all
@@ -2022446,6 +2022474,7 @@ zzzyk.com###Tinfo
 ||vypunay.com^
 ||vypywufmbsp.com^
 ||vypzcbraecdrv.bid^
+||vyq5segjv.com^
 ||vyqidg.koreus.com^
 ||vyqn.cn^
 ||vyqpumohlvdsd.xyz^
@@ -2040372,6 +2040401,7 @@ zzzyk.com###Tinfo
 ||whistdarking.com^
 ||whisteeb.xyz^
 ||whistle35.com^
+||whistle88.com^
 ||whistledam.com^
 ||whistledittyshrink.com^
 ||whistledprocessedsplit.com^
@@ -2044364,6 +2044394,7 @@ zzzyk.com###Tinfo
 ||winedaddy.com^
 ||winedinesd.com^
 ||winedownweekends.com^
+||winedtroughy.com^
 ||wineeniphone6.com-gen.online^
 ||wineenthusiast.collect.igodigital.com^
 ||wineenthusiast.sp1.convertro.com^
@@ -2107222,6 +2107253,7 @@ zzzyk.com###Tinfo
 ||wyssfotos.ch^
 ||wystawogloszenie.pl^
 ||wysy1ka-qr.com^
+||wysyclvqyrugw.space^
 ||wysylam-dane.shop^
 ||wysylkapaczki.pl^
 ||wysylki-priorytetowe.pl^
